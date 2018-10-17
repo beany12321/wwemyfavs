@@ -1,3 +1,7 @@
+body #headBar {
+  width: 100%;
+}
+
 #logoTitle {
   border: 1px solid black;
   margin: 10px;
@@ -10,4 +14,9 @@
 #navLinks {
   border: 1px solid black;
     margin: 10px;
+}
+
+#headBar {
+  border: 1px solid black;
+  width: 100%;
 }
