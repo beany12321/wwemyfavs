@@ -1,3 +1,13 @@
-h1 img {
+#logoTitle {
+  border: 1px solid black;
+  margin: 10px;
+}
+
+#logoTitle img {
   border-radius: 5%;
+}
+
+#navLinks {
+  border: 1px solid black;
+    margin: 10px;
 }
