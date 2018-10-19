@@ -1,19 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #2E4147;
+  color: #AFAFDC;
+}
+
 body #headBar {
   width: 100%;
+
 }
 
 #logoTitle {
   border: 1px solid black;
-  margin: 10px;
+  padding: 0;
+  display: inline-block;
+  height: 75px;
 }
 
 #logoTitle img {
   border-radius: 5%;
+  display: inline-block;
+  height: 100%;
+  width: auto;
+}
+
+#logoTitle h1 {
+  display: inline-block;
+  margin: auto 0;
 }
 
 #navLinks {
   border: 1px solid black;
-    margin: 10px;
+  margin: 10px;
+  display: inline-block;
 }
 
 #headBar {
