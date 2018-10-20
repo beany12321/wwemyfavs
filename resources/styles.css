@@ -19,6 +19,8 @@ body {
   border-bottom: 1px solid black;
   width: 100%;
   z-index: 99;
+  background-color: #A2A77F;
+  color: #2E4147;
 }
 
 #logoTitle {
@@ -47,4 +49,8 @@ body {
   border: 1px solid black;
   margin: 10px;
   display: inline-block;
+}
+
+#navList {
+  list-style: none;
 }
